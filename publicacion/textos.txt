@@ -1,11 +1,21 @@
 Título (30)
 ===========
+GUÍA DE CALA
 
 Descripción breve (80)
 ======================
+Con esta guía llevarás Cala en tu bolsillo
+
 
 Descripción completa (4000)
 ===========================
+La idea inicial de esta aplicación es ofrecer una guía en la que se puede encontrar (a través de la geolocalización en un plano) la máxima información de Cala desde una visión general, así como detallada, que servirá en la vida cotidiana a todo aquel (turista o visitante) que se acerque a esta bella ciudad.
+
+Cala es un pueblo situado al nordeste de la provincia de Huelva, en el límite con la de Badajoz, dentro del Parque Natural de Aracena y Picos de Aroche, uno de los espacios protegidos más importantes de la comunidad y que ocupa todo el norte de la provincia con sus dehesas y pequeñas elevaciones cubiertas, predominantemente, de bosques de encinas, alcornoques, castaños y monte bajo, por donde cursan numerosos arroyos, conformando un paisaje de extraordinaria belleza y atractivo. A su vez, se encuentra inmerso en el conjunto occidental de Sierra Morena.
+
+Cala posee la Certificación Starlite, estando incluida en la Reserva y Destino Turístico Starlite de Sierra Morena. La Iniciativa Starlight trata de certificar primero y conservar a posteriori aquellos lugares cuyo cielo nocturno atesora valores de oscuridad excepcionales, permitiendo la puesta en valor del mismo desde el punto de vista de la conservación y del turismo. Una Reserva Starlight es una certificación internacional que se otorga únicamente a aquellos lugares cuyo cielo nocturno se mantiene en la actualidad en unas condiciones impecables de conservación. Un Destino Turístico Starlight es otra certificación que acredita que un determinado lugar cuenta con una infraestructura turística de calidad para acoger a aquellas personas que se acerquen a disfrutar de la astronomía.
+
+
 
 Etiquetas	
 ===========
